@@ -46,7 +46,21 @@ To get started, download the entire source code and then follow the instructions
   ```sh
       https://react.dev/
   ```  
+## Usage
 
+```bash
+git clone <this-repo>
+npm install
+
+npx hardhat node
+
+npx hardhat compile
+npx hardhat run scripts/sample-script.js --network localhost
+
+npm run dev
+```
+
+Update the deployed contract address in `compoonents/Home.js`
   
 
 <!-- CONTACT -->

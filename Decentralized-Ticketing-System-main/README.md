@@ -66,4 +66,3 @@ Update the deployed contract address in `compoonents/Home.js`
 <!-- CONTACT -->
 # Contact
 
-Name: Shivank Kapur - shivankkapur2004@gmail.com
